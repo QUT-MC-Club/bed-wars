@@ -9,11 +9,10 @@
       "translate": "gameType.bedwars.bed_wars.desc.2"
     }
   ],
-  "map": "bedwars:hellish_nightmare",
-  "dimension": "minecraft:the_nether",
+  "map": "bedwars:sakura_gardens",
   "players": {
     "min": 4,
-    "max": 16,
+    "max": 32,
     "threshold": 4
   },
   "keep_inventory": false,
@@ -21,10 +20,10 @@
     "old_mechanics": false
   },
   "teams": [
-    {"key": "warped", "name": "Warped", "color": "cyan"},
-    {"key": "crimson", "name": "Crimson", "color": "red"},
-    {"key": "soul", "name": "Soul", "color": "brown"},
-    {"key": "basalt", "name": "Basalt", "color": "gray"}
+    {"key": "blue", "name": "Blue", "color": "blue"},
+    {"key": "green", "name": "Green", "color": "green"},
+    {"key": "yellow", "name": "Yellow", "color": "yellow"},
+    {"key": "red", "name": "Red", "color": "red"}
   ],
   "generator": {
     "level_1": {
